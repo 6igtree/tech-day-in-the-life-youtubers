@@ -28,26 +28,18 @@ Independent YouTubers sharing **day-in-the-life / office vlogs** as software eng
 | [Chris Zou](https://www.youtube.com/@chris_zou) | TikTok | Singapore | As of 2023 | [A day in the life of a TikTok software engineer in Singapore](https://www.youtube.com/watch?v=uTh4XhlCUzU) |
 | [Dimas Miftah](https://www.youtube.com/@dimasmfth) | Tokopedia | Jakarta | Intern (2025) | [A day in the life as a software engineer intern at Tokopedia](https://www.youtube.com/watch?v=bSt9VU-V7iU) |
 | [Ibon Cañete](https://www.youtube.com/@iboncanete3806) |  | Amsterdam | Current | [A Realistic Office Day as a Software Engineer in Amsterdam](https://www.youtube.com/watch?v=PJaRTlR5FIk) |
-
-## Pending
-
-Under review.
-
-| Creator | City | Video |
-|---|---|---|
-| [Dinma Otutu](https://www.youtube.com/@DinmaOtutuVlogs) | Berlin | [A Day in The Life of A Software Engineer in Berlin](https://www.youtube.com/watch?v=HbnFPInBHJY) |
-| [Kelila Kumala](https://www.youtube.com/@KelilaKumala) | Jakarta | [last day as a software engineer intern in jakarta](https://www.youtube.com/watch?v=wFsldEbsnGs) |
-| [Global Constants](https://www.youtube.com/@GlobalConstants) | Melbourne | [A Real Day in the Life of a Software Engineer in Melbourne](https://www.youtube.com/watch?v=LB_Tj2HKMU8) |
-| [Nikit Rauniyar](https://www.youtube.com/@nikit.rauniyar) | Melbourne | [A day in a life of a software engineer in Melbourne (office edition)](https://www.youtube.com/watch?v=GMt8itPgp1A) |
-| [Hello Hera](https://www.youtube.com/@lifeof-hellohera) | Tokyo | [Working as a Software Engineer in Japan](https://www.youtube.com/watch?v=qA50LQm8oa0) |
-| [Naolife](https://www.youtube.com/@nao-life74) | Tokyo | [Day in the Life of a Software Engineer in Japan](https://www.youtube.com/watch?v=-HYD4AR4ohQ) |
-| [Ryza Ry](https://www.youtube.com/@ryzary) | Tokyo | [Day in The Life of a Software Engineer in Tokyo Japan (Office Day)](https://www.youtube.com/watch?v=zb2E-7VFQmg) |
+| [Dinma Otutu](https://www.youtube.com/@DinmaOtutuVlogs) |  | Berlin | As of 2024 | [A Day in The Life of A Software Engineer in Berlin](https://www.youtube.com/watch?v=HbnFPInBHJY) |
+| [Kelila Kumala](https://www.youtube.com/@KelilaKumala) |  | Jakarta | Intern (2026) | [last day as a software engineer intern in jakarta](https://www.youtube.com/watch?v=wFsldEbsnGs) |
+| [Global Constants](https://www.youtube.com/@GlobalConstants) |  | Melbourne | Current | [A Real Day in the Life of a Software Engineer in Melbourne](https://www.youtube.com/watch?v=LB_Tj2HKMU8) |
+| [Nikit Rauniyar](https://www.youtube.com/@nikit.rauniyar) |  | Melbourne | Current | [A day in a life of a software engineer in Melbourne (office edition)](https://www.youtube.com/watch?v=GMt8itPgp1A) |
+| [Hello Hera](https://www.youtube.com/@lifeof-hellohera) |  | Tokyo | Current | [Working as a Software Engineer in Japan](https://www.youtube.com/watch?v=qA50LQm8oa0) |
+| [Ryza Ry](https://www.youtube.com/@ryzary) |  | Tokyo | As of 2024 | [Day in The Life of a Software Engineer in Tokyo Japan (Office Day)](https://www.youtube.com/watch?v=zb2E-7VFQmg) |
 
 ## Contributing
 
 - **In:** independent creators in technical roles, with day-in-the-life / office / work vlogs where the city is identifiable. List the company only if the creator states it.
 - **Out:** company recruiting videos, tutorial-only and career-advice-only channels.
-- **Sort** by Company, then City.
+- **Sort** by Company, then City. Entries without a company go last.
 - **Status:** `Current`, `Former (–YYYY)`, `Intern (YYYY)`, or `As of YYYY` (employed in that year's video, current status unknown), plus a confidence mark:
   - ✓ Verified: confirmed via LinkedIn, personal site, or another reliable source
   - (no mark) Self-declared: the creator says so but it isn't independently confirmed
