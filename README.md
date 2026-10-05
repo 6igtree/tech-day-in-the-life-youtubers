@@ -52,3 +52,7 @@ Under review.
   - ✓ Verified: confirmed via LinkedIn, personal site, or another reliable source
   - (no mark) Self-declared: the creator says so but it isn't independently confirmed
 - Accuracy over completeness: no evidence, no entry.
+
+## Removal
+
+Listed here and want to be removed or corrected? Open an issue and it will be handled promptly, no questions asked.
