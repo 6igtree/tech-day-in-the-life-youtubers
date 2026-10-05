@@ -6,6 +6,7 @@ Independent YouTubers sharing **day-in-the-life / office vlogs** as software eng
 
 | Creator | Company | City | Status | Video |
 |---|---|---|---|---|
+| [bko](https://www.youtube.com/@thisisbko) | Airbnb | Seattle | As of 2023 | [a day in my life as a software engineer at airbnb in seattle](https://www.youtube.com/watch?v=BW_QT-GEqEE) |
 | [Anmol Mathur](https://www.youtube.com/@anmol_mathurr) | Amazon | Berlin | Intern (2025) | [Day in the life of a SDE Intern at Amazon, Berlin](https://www.youtube.com/watch?v=_8NBuzBuqpE) |
 | [Noumana Haq](https://www.youtube.com/@noumanahaq) | Amazon | London | Current | [A day in my life as a software engineer at Amazon London](https://www.youtube.com/watch?v=GeQIIOwEyok) |
 | [Bayar Tech](https://www.youtube.com/@bayartech) | Amazon | Seattle | Current | [Day in the Life of a Software Engineer at Amazon: 5 AM–9 PM in Seattle](https://www.youtube.com/watch?v=OlHOkn6Tlys) |
@@ -21,6 +22,7 @@ Independent YouTubers sharing **day-in-the-life / office vlogs** as software eng
 | [Venkatesh Dhongadi](https://www.youtube.com/@flick_23) | Google | Bengaluru | Current | [Day in my Life as a Software Engineer at Google](https://www.youtube.com/watch?v=pKF4K8LfaSM) |
 | [Divyanshi Srivastava](https://www.youtube.com/@goldendelphi) | Google | Bengaluru | Current | [Day in the Life of a Software Engineer at Google](https://www.youtube.com/watch?v=rAejJBmo55Y) |
 | [Girish Thatte](https://www.youtube.com/@girishthatte) | Google | Bengaluru | Current | [A Day in the life of a SWE at Google](https://www.youtube.com/watch?v=3mi2HY2nzeg) |
+| [Sanju Walia](https://www.youtube.com/@sanjudecodes) | Google | Dublin | Current | [A day at Google Dublin. Part 1: The Morning](https://www.youtube.com/watch?v=yHCru-fFIY8) |
 | [Garima Rajput](https://www.youtube.com/@garima_rajput07) | Google | London | Former | [Day in my life @Google, London](https://www.youtube.com/watch?v=5J8R3ke5ZhI) |
 | [Jeffrey Liu](https://www.youtube.com/@jeffreyliutech) | Google | Mountain View | Current | [Day in the Life of a Software Engineer at Google](https://www.youtube.com/watch?v=Rzrh8ACy9GI) |
 | [FullStackBuilder](https://www.youtube.com/@FullStackBuilder) | Google | Mountain View | As of 2022 | [A day in the life of a Google software engineer + campus tour](https://www.youtube.com/watch?v=aL-PaSPS1sk) |
@@ -29,12 +31,22 @@ Independent YouTubers sharing **day-in-the-life / office vlogs** as software eng
 | [Clarke Tu Nguyen](https://www.youtube.com/@clarketunguyen4727) | Google | Tokyo | As of 2020 | [A day in a life of a Google engineer in Tokyo (WFH edition)](https://www.youtube.com/watch?v=zpZyxVK1EH8) |
 | [Anshul Ganumpally](https://www.youtube.com/@anshulg614) | Google (YouTube) | SF Bay Area | Current | [Day In the Life as a Software Engineer at Youtube (Google)](https://www.youtube.com/watch?v=Rx7tJlKy1d0) |
 | [Kexin Cui](https://www.youtube.com/@kkcui) | LinkedIn | Seattle | As of 2023 | [EP14: Days In Life As a Software Engineer at LinkedIn, Seattle](https://www.youtube.com/watch?v=6LozQaL_if4) |
+| [Riya Bansal](https://www.youtube.com/@riyabansal5489) | Meta | London | Current | [My first day as a software engineer in Meta London 2025](https://www.youtube.com/watch?v=okmK87ypphk) |
+| [Thirty Plus Life](https://www.youtube.com/@ThirtyPlusLife) | Meta | London | As of 2024 | [A Day in the Life of a Software Engineer at Meta](https://www.youtube.com/watch?v=7jaSEDTfAkw) |
 | [Apurva Singh](https://www.youtube.com/@Apurvavrupa) | Meta | Menlo Park | As of 2023 | [A Day in the Life of a Software Engineer at Meta](https://www.youtube.com/watch?v=f9sH5SgCYbY) |
 | [Calvin Li](https://www.youtube.com/@calvinxli) | Meta | Seattle | Current | [EP12: Productive Day in the Life of a Software Engineer, Meta Seattle](https://www.youtube.com/watch?v=GAPc_-fD2C8) |
+| [gamer foodie jen](https://www.youtube.com/@gamerfoodiejen) | Microsoft | Redmond | Current | [realistic day of a Software engineer at Microsoft in Redmond, WA](https://www.youtube.com/watch?v=poG5Y5Vn61w) |
 | [Dustin Brett](https://www.youtube.com/@DustinBrett) | Microsoft | Vancouver | Current | [A Day in the Life of a Software Engineer in Canada](https://www.youtube.com/watch?v=XzAFO5Ab-g4) |
+| [ARAM Couple](https://www.youtube.com/@aramcouple8471) | Netflix | Los Gatos | As of 2021 | [A Day in The Life of Netflix Engineer (Post-Covid)](https://www.youtube.com/watch?v=4GWURMDgb-A) |
 | [Rajat Keshri](https://www.youtube.com/@rajatkeshri9392) | NVIDIA | SF Bay Area | Current | [A day in life as a software engineer at NVIDIA](https://www.youtube.com/watch?v=_Sf77VU8aow) |
+| [Centipede Yaps](https://www.youtube.com/@bug_to_feature) | Salesforce | Bengaluru | Current | [A Normal Day in Salesforce working as a software developer](https://www.youtube.com/watch?v=0PBlJfErivg) |
+| [ByNithish](https://www.youtube.com/@By.Nithish) | Salesforce | Bengaluru | Current | [A Day in My Life as a Software Engineer at Salesforce](https://www.youtube.com/watch?v=T-m8_T_cOqc) |
+| [Tasleem Halai](https://www.youtube.com/@tasleemhalai) | Salesforce | San Francisco | As of 2024 | [A day In Life working as Software Engineer: Salesforce Tower Tour](https://www.youtube.com/watch?v=FLkPVDiQT-I) |
 | [Chris Zou](https://www.youtube.com/@chris_zou) | TikTok | Singapore | As of 2023 | [A day in the life of a TikTok software engineer in Singapore](https://www.youtube.com/watch?v=uTh4XhlCUzU) |
 | [Dimas Miftah](https://www.youtube.com/@dimasmfth) | Tokopedia | Jakarta | Intern (2025) | [A day in the life as a software engineer intern at Tokopedia](https://www.youtube.com/watch?v=bSt9VU-V7iU) |
+| [MrDhamaniVlogs](https://www.youtube.com/@MrDhamaniVlogs) | Uber | Bengaluru | Current | [A day in my life at Uber: Uber Bangalore office tour](https://www.youtube.com/watch?v=fZYoPeJQzgs) |
+| [Akira Li](https://www.youtube.com/@akirali) | Uber | San Francisco | Intern (2024) | [Day in the Life of a Software Engineering Intern @ Uber SF](https://www.youtube.com/watch?v=yqJ3LNeoqLg) |
+| [Hanson Li](https://www.youtube.com/@hansonl02) | Uber | San Francisco | Intern (2023) | [A Day in the Life of a Software Engineer Intern @ Uber](https://www.youtube.com/watch?v=9q8nMNhgaR0) |
 | [Ibon Cañete](https://www.youtube.com/@iboncanete3806) |  | Amsterdam | Current | [A Realistic Office Day as a Software Engineer in Amsterdam](https://www.youtube.com/watch?v=PJaRTlR5FIk) |
 | [Dinma Otutu](https://www.youtube.com/@DinmaOtutuVlogs) |  | Berlin | As of 2024 | [A Day in The Life of A Software Engineer in Berlin](https://www.youtube.com/watch?v=HbnFPInBHJY) |
 | [Kelila Kumala](https://www.youtube.com/@KelilaKumala) |  | Jakarta | Intern (2026) | [last day as a software engineer intern in jakarta](https://www.youtube.com/watch?v=wFsldEbsnGs) |
