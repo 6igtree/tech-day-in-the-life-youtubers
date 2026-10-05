@@ -1,0 +1,35 @@
+name: Suggest a creator
+description: Add a YouTuber to the list
+labels: [add]
+body:
+  - type: input
+    id: channel
+    attributes:
+      label: Channel URL
+    validations:
+      required: true
+  - type: input
+    id: video
+    attributes:
+      label: Day-in-the-life video URL
+    validations:
+      required: true
+  - type: input
+    id: city
+    attributes:
+      label: City
+      description: Where the office/work in the video is.
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company (optional)
+      description: Only if the creator states it themselves. Leave blank if they keep it private, even if you can tell.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Where the creator states the company / city (video title, description, channel bio, timestamp).
+    validations:
+      required: true

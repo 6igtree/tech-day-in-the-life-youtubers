@@ -1,0 +1,23 @@
+name: Remove or correct an entry
+description: For listed creators, or anyone spotting an error
+labels: [removal]
+body:
+  - type: input
+    id: creator
+    attributes:
+      label: Creator / channel
+    validations:
+      required: true
+  - type: dropdown
+    id: request
+    attributes:
+      label: Request
+      options:
+        - Remove me from the list
+        - Correct information
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details (optional)
